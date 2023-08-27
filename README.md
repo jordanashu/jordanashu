@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m Ashutosh Kumar Singh learning new technology<br>👯 I’m pursuing Master of Computer Application from Chandigarh University <br>🌱 I’m currently learning mern-stack & Aws<br>💬 I'm full-stack developer<br>⚡ love  code
+
+🔭 I’m Ashutosh Kumar Singh learning new technology<br>👯 I’m Master of Computer Application from Chandigarh University <br>🌱 I’m currently learning mern-stack & Aws<br>💬 I'm full-stack developer<br>⚡ love  code
 
 
 ## 🌐 Socials:
