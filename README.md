@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 🔭 I’m Ashutosh Kumar Singh learning new technology<br>
-🔭 I’m Full Stack Developer in Code Brew Labsy<br
+🔭 I’m Full Stack Developer in Code Brew Labs<br>
 👯 I’m Master of Computer Application from Chandigarh University <br>🌱 I’m currently learning mern-stack & Aws<br>💬 I'm full-stack developer<br>⚡ love  code
 
 
